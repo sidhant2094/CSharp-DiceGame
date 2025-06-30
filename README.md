@@ -1,4 +1,4 @@
-# 🎲 C# Dice Game
+# 🎲 C# Dice Game (Made by Sidhant Malik)
 
 A simple console-based dice game built in C#. The game rolls 3 dice, adds up their values, and tells you if you won or lost.
 
@@ -6,11 +6,6 @@ A simple console-based dice game built in C#. The game rolls 3 dice, adds up the
 - If it's **less than 15**, you **lose** 😢
 
 ---
-
-👨‍💻 Author
-"Sidhant Malik"
-Built as part of learning the C# language and GitHub basics.
-
 
 ## 🛠️ Tech Stack
 
